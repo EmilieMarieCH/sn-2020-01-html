@@ -1,0 +1,52 @@
+#logo {
+    width: 50%;
+    height: auto;
+    padding:auto;
+    margin: auto;
+}
+
+
+nav ul {
+    border-top : 1px solid #ddd;
+    border-bottom : 1px solid #ddd;
+    font-size: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 100px;
+    padding: 5px 30px;
+
+}
+
+nav ul li a {
+    float: left;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+
+}
+
+nav ul :hover {
+    background-color: #c9a58f;
+    color: white;
+    text-decoration: none;
+
+}
+
+#BOOK {
+    background: #c9a58f;
+    color: white;
+}
+
+.image {
+    border: 10px solid red;
+    width: 10%;
+    height: auto;
+}
+
+.centered {
+    text-align: center;
+    column height
+
+}
