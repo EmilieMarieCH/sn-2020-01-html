@@ -16,6 +16,7 @@ nav ul li{
     display: inline-block;
     line-height: 100px;
     padding: 5px 30px;
+    margin:0;
 
 }
 
@@ -34,9 +35,12 @@ nav ul :hover {
 
 }
 
-#BOOK {
-    background: #c9a58f;
+.white{
     color: white;
+}
+
+.beigeback {
+    background: #c9a58f;
 }
 
 .image {
@@ -47,6 +51,22 @@ nav ul :hover {
 
 .centered {
     text-align: center;
-    column height
+
+}
+
+.alignvert {
+    display: inline-block;
+    text-align: center;
+    line-height:300px;
+}
+
+h5 {
+    display: table-cell;
+    font-size:30px;
+    text-align: center;
+    vertical-align: middle;
+
+
+}
 
 }
