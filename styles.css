@@ -43,16 +43,15 @@ nav ul :hover {
     background: #c9a58f;
 }
 
-.image {
-    border: 10px solid red;
-    width: 10%;
-    height: auto;
-}
-
 .centered {
     text-align: center;
-
 }
+
+.container {
+    width: 100%;
+    margin: 0px auto;
+}
+
 
 .alignvert {
     display: inline-block;
@@ -69,4 +68,7 @@ h5 {
 
 }
 
+.title {
+    color: red;
+    font-weight: bold;
 }
